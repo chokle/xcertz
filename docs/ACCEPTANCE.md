@@ -1,6 +1,6 @@
 # Real Phantom / Solana devnet acceptance
 
-Status: **PARTIAL: real devnet issuance succeeded and issuer signing was checked independently.** See [issuance evidence](ISSUANCE_EVIDENCE.md). Real revocation is now independently checked at finalized commitment; the user's screenshot shows revoked/invalid. See [revocation evidence](REVOCATION_EVIDENCE.md). Separate-session pre-revocation valid-state evidence remains pending. Do not substitute fixture transactions, random signatures, or generated Explorer URLs for chain evidence.
+Status: **PARTIAL: real devnet issuance succeeded and issuer signing was checked independently.** See [issuance evidence](ISSUANCE_EVIDENCE.md). Real revocation is now independently checked at finalized commitment; the user's screenshot shows revoked/invalid. See [revocation evidence](REVOCATION_EVIDENCE.md). A second real credential is finalized, unexpired and not revoked as of the independent history check, and is visibly valid in the user's separate Chrome session. See [valid credential evidence](VALID_CREDENTIAL_EVIDENCE.md). The valid and revoked screenshots show different credentials; a same-credential Chrome before/after capture is not evidenced. Do not substitute fixture transactions, random signatures, or generated Explorer URLs for chain evidence.
 
 | Gate | Required evidence |
 |---|---|
