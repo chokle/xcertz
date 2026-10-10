@@ -1,6 +1,6 @@
 # Real Phantom / Solana devnet acceptance
 
-Status: **NOT EXECUTED. No real transaction evidence captured yet.** Do not substitute fixture transactions, random signatures, or generated Explorer URLs for chain evidence.
+Status: **PARTIAL: real devnet issuance succeeded and issuer signing was checked independently.** See [issuance evidence](ISSUANCE_EVIDENCE.md). Separate-session verification and real revocation remain pending. Do not substitute fixture transactions, random signatures, or generated Explorer URLs for chain evidence.
 
 | Gate | Required evidence |
 |---|---|
