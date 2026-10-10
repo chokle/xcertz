@@ -1,6 +1,6 @@
 # Real Phantom / Solana devnet acceptance
 
-Status: **PARTIAL: real devnet issuance succeeded and issuer signing was checked independently.** See [issuance evidence](ISSUANCE_EVIDENCE.md). Separate-session verification and real revocation remain pending. Do not substitute fixture transactions, random signatures, or generated Explorer URLs for chain evidence.
+Status: **PARTIAL: real devnet issuance succeeded and issuer signing was checked independently.** See [issuance evidence](ISSUANCE_EVIDENCE.md). Real revocation is now independently checked at finalized commitment; the user's screenshot shows revoked/invalid. See [revocation evidence](REVOCATION_EVIDENCE.md). Separate-session pre-revocation valid-state evidence remains pending. Do not substitute fixture transactions, random signatures, or generated Explorer URLs for chain evidence.
 
 | Gate | Required evidence |
 |---|---|
